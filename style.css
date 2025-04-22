@@ -1,0 +1,23 @@
+img {
+  width: 40%;
+}
+h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+ol,
+ul {
+  padding-left: 50px;
+}
+.rounded_photo {
+  border-radius: 50%;
+
+  float: right;
+}
+#title {
+  color: red;
+  font-size: 24px;
+  text-align: center;
+}
