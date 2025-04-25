@@ -1,0 +1,16 @@
+body {
+  background-color: #121212; /* Тёмный фон */
+  color: #e0e0e0; /* Светлый текст */
+  font-family: "Roboto", "Arial", sans-serif;
+  margin: 0;
+  padding: 20px;
+  line-height: 1.7;
+}
+
+#title {
+  color: #bb86fc;
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 30px;
+  text-shadow: 0 0 10px rgba(187, 134, 252, 0.3);
+}
